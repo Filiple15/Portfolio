@@ -1,75 +1,65 @@
-![Logo](cp.png)
+# 🌐 Meu Portfólio Pessoal
 
-# Amine Portfolio Showcase 💻
-
-Welcome to **Amine's Portfolio Showcase**!  
-A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
-It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
+Bem-vindo ao repositório do meu portfólio!  
+Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória, minhas habilidades e alguns dos projetos que venho construindo durante meus estudos em Desenvolvimento de Sistemas.
 
 ---
 
-## Live Demo 🚀
+## 🚀 Tecnologias Utilizadas
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+- **HTML5**  
+- **CSS3**
 
----
-
-## 🌟 Website Sections
-
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
-- **Footer**: Quick navigation links and social media links
+O foco deste portfólio é simplicidade, estrutura bem organizada e uma boa apresentação visual.
 
 ---
 
-## ⚡ Features
+## 📁 Sobre o Projeto
 
-- Dark theme with **blue accent color** for highlights  
-- Smooth scroll navigation between sections  
-- Fully **responsive design** for desktop, tablet, and mobile  
-- Hover effects and animations for buttons, cards, and links  
-- Contact form with validation  
-- Interactive social links  
+Este portfólio conta com:
 
----
+### ✔️ **Página inicial**  
+Apresenta minha história, minhas competências e uma visão geral sobre mim como desenvolvedor.
 
-## 🛠 Technologies Used
+### ✔️ **Seção de Projetos**  
+Mostro alguns projetos anteriores que já desenvolvi.  
+Cada card possui visual limpo e direciona para mais detalhes no GitHub.
 
-- **HTML5** – Structure and semantic content  
-- **CSS3** – Styling, responsive layouts, Flexbox & Grid  
-- **JavaScript (Vanilla JS)** – Interactivity and animations  
-- **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
+### ✔️ **Formulário de Contato**  
+Inclui um formulário funcional onde o visitante pode enviar uma mensagem diretamente para o meu e-mail.
+
+### ✔️ **Design Responsivo**  
+Totalmente adaptado para diferentes tamanhos de tela.
 
 ---
 
-## License
+## 🔗 Acesso ao Portfólio
 
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
-
----
-
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
- ---
-
-## 📬 Contact
-
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+Você pode acessar o site aqui:  
+👉 **https://filiple15.github.io/Portfolio/portofolio3/index.html**
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+## 🧑‍💻 Sobre mim
 
+Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por front-end e sempre trabalhando para evoluir meus projetos e minhas habilidades.
 
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
+Se quiser acompanhar meu progresso:
+
+- **GitHub:** https://github.com/Filiple15  
+- **LinkedIn:** https://www.linkedin.com/in/joaofilipeleandrodossantos/  
+- **Instagram:** https://www.instagram.com/joao_fl_015
+
+---
+
+## 📬 Contato
+
+Fique à vontade para abrir uma issue, mandar sugestões ou entrar em contato comigo pelo próprio formulário do site.  
+Toda contribuição ou feedback é bem-vindo!
+
+---
+
+## ⭐ Como contribuir
+
+Se gostou, deixe uma estrela ⭐ no repositório — isso me ajuda muito!
+
